@@ -1,4 +1,8 @@
-# 📊 Aplicação de Machine Learning na Identificação de Municípios do Nordeste Brasileiro
+# 📊 APLICAÇÃO DE TÉCNICAS DE MACHINE LEARNING NA
+IDENTIFICAÇÃO DE MUNICÍPIOS DO NORDESTE
+BRASILEIRO COM MAIOR POTENCIAL PARA ATRAÇÃO DE
+INVESTIMENTOS A PARTIR DE DADOS
+SOCIOECONÔMICOS
 
 > [cite_start]**Trabalho de Conclusão de Curso** apresentado à faculdade **CESAR School** como requisito para a graduação em Ciência da Computação[cite: 5, 15].
 
